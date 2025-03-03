@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @vincent-ooko
+- A Network Engineer✌
 - 👀 I’m interested in ...CyberSecurity defensive and Offensive practises
 - 🌱 I’m currently learning ...Backend Development
 - 💞️ I’m looking to collaborate on ...coming up with different techniques to help ascertain the security of applications. #safe cyberspace
